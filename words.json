@@ -52,6 +52,12 @@
         "announce",
         "diagnosis"
       ]
+    },
+    {
+      "id": "2022-08-08",
+      "list": [
+        "qualification"
+      ]
     }
   ]
 }
