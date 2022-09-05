@@ -73,6 +73,12 @@
         "appointment",
         "punish"
       ]
+    },
+    {
+      "id": "2022-09-05",
+      "list": [
+        "periodic"
+      ]
     }
   ]
 }
