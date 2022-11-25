@@ -97,6 +97,12 @@
         "radius",
         "blast"
       ]
+    },
+    {
+      "id": "2022-11-21",
+      "list": [
+        "coordination"
+      ]
     }
   ]
 }
