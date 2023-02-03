@@ -135,7 +135,8 @@
       "list": [
         "concrete",
         "concern",
-        "implicitly"
+        "implicitly",
+        "abandon"
       ]
     }
   ]
