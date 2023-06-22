@@ -171,6 +171,12 @@
       "list": [
         "potential"
       ]
+    },
+    {
+      "id": "2023-06-19",
+      "list": [
+        "critical"
+      ]
     }
   ]
 }
