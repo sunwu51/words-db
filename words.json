@@ -208,7 +208,8 @@
         "sink",
         "sickness",
         "motion",
-        "sensory"
+        "sensory",
+        "glue"
       ]
     }
   ]
