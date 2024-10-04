@@ -305,6 +305,12 @@
         "capacity",
         "compatible"
       ]
+    },
+    {
+      "id": "2024-09-30",
+      "list": [
+        "stall"
+      ]
     }
   ]
 }
