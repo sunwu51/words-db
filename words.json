@@ -342,7 +342,8 @@
         "syntax",
         "ambiguity",
         "precedence",
-        "associate"
+        "associate",
+        "contrast"
       ]
     }
   ]
