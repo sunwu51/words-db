@@ -339,7 +339,9 @@
         "terse",
         "spook",
         "territory",
-        "syntax"
+        "syntax",
+        "ambiguity",
+        "precedence"
       ]
     }
   ]
