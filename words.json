@@ -422,7 +422,9 @@
         "institution",
         "mental",
         "physical",
-        "equipment"
+        "equipment",
+        "laboratory",
+        "facility"
       ]
     }
   ]
