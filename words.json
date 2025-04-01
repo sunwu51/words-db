@@ -425,7 +425,8 @@
         "equipment",
         "laboratory",
         "facility",
-        "heritage"
+        "heritage",
+        "consequence"
       ]
     }
   ]
