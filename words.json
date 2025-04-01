@@ -426,7 +426,8 @@
         "laboratory",
         "facility",
         "heritage",
-        "consequence"
+        "consequence",
+        "trail"
       ]
     }
   ]
