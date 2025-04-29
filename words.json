@@ -507,7 +507,8 @@
     {
       "id": "2025-04-28",
       "list": [
-        "consent"
+        "consent",
+        "revoke"
       ]
     }
   ]
