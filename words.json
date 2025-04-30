@@ -510,7 +510,8 @@
         "consent",
         "revoke",
         "orchestrate",
-        "revoke"
+        "revoke",
+        "settled"
       ]
     }
   ]
